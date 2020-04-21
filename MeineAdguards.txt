@@ -1,0 +1,971 @@
+youtube.com###grid-title
+youtube.com###primary > ytd-rich-grid-renderer.style-scope.ytd-two-column-browse-results-renderer
+youtube.com###secondary
+youtube.com###button > yt-icon.style-scope.ytd-topbar-menu-button-renderer
+youtube.com###button > yt-icon.style-scope.ytd-notification-topbar-button-renderer
+youtube.com###guide-links-primary
+youtube.com###guide-links-secondary
+youtube.com###vat-notice > div
+youtube.com###copyright > div
+youtube.com###button > yt-icon.style-scope.ytd-menu-renderer
+youtube.com###container > yt-formatted-string.super-title.style-scope.ytd-video-primary-info-renderer:nth-child(3)
+facebook.com###rightCol > div._5rzs._5v6d._2zam
+facebook.com###fb_stories_card_root > div._nyb
+winfuture.mobi###main > div.mb25.ml5.mr5.mtop5:nth-child(20) > iframe
+winfuture.mobi##div.date.fsize14.mtop10:nth-child(10)
+winfuture.mobi##div.text:nth-child(11)
+winfuture.mobi##div.footer:nth-child(15) > a.r.bnt:first-child
+winfuture.mobi###misc > a:nth-child(4)
+winfuture.mobi###misc > a:last-child
+winfuture.mobi###misc > a:nth-child(3)
+winfuture.mobi###header > a.bnt.forum:nth-child(2)
+ebay.de###rtm_list2
+ebay.de###ocs-inflow
+ebay.de###items_list1
+ebay.de###items_list2
+ebay.de###items_list3
+ebay.de###items_list4
+ebay.de###personalized_events1 > div:last-child
+ebay.de###personalized_events1 > div.hl-mweb-text-banner:first-child
+ebay.de###personalized_events1
+ebay.de###items_list5
+ebay.de###items_list6
+ebay.de###items_list7
+ebay.de###sellers_list1
+ebay.de###items_list8
+ebay.de###sellers_list2
+ebay.de###destinations_list1
+ebay.de###rtm_list3
+ebay.de###hlGlobalFooter
+ebay.de###mainContent > div.hl-cat-nav:first-child > ul.hl-cat-nav__container:first-child
+ebay.de###gh-plus > a > img.gh-ep
+ebay.de###gh-p-3
+ebay.de###gh-p-1 > a.gh-p
+ebay.de###gh-Alerts-i
+ebay.de###gh-hsi
+moodle.tum.de###inst1501 > div.card-body.p-3
+moodle.tum.de###page-footer
+tumidp.lrz.de###loginExplanation
+tumidp.lrz.de###footer > div.footer-bar
+tumidp.lrz.de###sp-info
+tumidp.lrz.de###nav > a.aai
+tumidp.lrz.de###content > form:last-child > div.form-element-wrapper:nth-child(4)
+finanzen.net###naviBox
+finanzen.net###finanzenNetLogin
+finanzen.net###header-nav-1 > li.green.navigation-brokerage-li:nth-child(4) > a
+finanzen.net###header-nav-1 > li.oskar.last:last-child > a
+finanzen.net###header-nav-1 > li:nth-child(3) > a
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.row.header.hidden-xs:nth-child(2) > div.col-sm-6.col-xs-12.text-right:last-child
+finanzen.net###collapseExample > div.col-xs-12:last-child > div.footer-box-dark
+finanzen.net###collapseExample > div.col-xs-12.hidden-xs:first-child > div.footer-box
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(59) > div.col-sm-4:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(59) > div.col-sm-4:nth-child(2) > div.box.premium:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(59) > div.col-sm-4:first-child > div.box.premium:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(57) > div.col-xs-12 > h2.headline-container
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div.spacer-40:nth-child(17)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div.spacer-60.hidden-xs:nth-child(19)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(56) > div.col-sm-4:last-child > div:nth-child(3) > a > img.lazy.img-responsive.margin-auto
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(56) > div.col-sm-4:last-child > div.box.survey:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(54) > div.col-xs-12 > h2.headline-container
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(56)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(55)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(43) > div.col-sm-4:nth-child(3) > div.box:first-child > a:last-child > img.lazy.img-responsive.margin-auto
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(43)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(41) > div.col-xs-12 > div.middle-nav-container
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(40) > div.col-xs-12 > div.hidden-xs:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div.row:nth-child(10) > div.col-xs-12
+finanzen.net###ishares_etf_variation
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(4) > div.col-sm-4.col-xs-12:last-child > div.box:nth-child(7)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(7) > div.col-sm-12.col-xs-12
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:last-child > div.col-sm-12.col-xs-12 > div.row:first-child > div.col-xs-12:last-child > div.box:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(8) > div.col-sm-12.col-xs-12 > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(8) > div.col-sm-12.col-xs-12 > div.mleft-10.medium-font.light-grey:nth-child(9)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:last-child > div.col-sm-12.col-xs-12 > div.row:first-child > div.col-xs-12:last-child > h2.headline-container:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:last-child > div.col-sm-12.col-xs-12 > div.mleft-10.medium-font.light-grey:nth-child(2)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:last-child > div.col-sm-12.col-xs-12 > div.row:first-child > div.col-xs-12:last-child > div.spacer-20:nth-child(2)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:last-child > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div.spacer-20:nth-child(20)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(8) > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(8)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:last-child > div.col-sm-12.col-xs-12 > div.row:first-child > div.col-xs-12:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(6) > div.col-sm-4.col-xs-12:last-child > div.table-quotes:last-child > div.box:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(6) > div.col-sm-4.col-xs-12:last-child > div.box.table-quotes:nth-child(4)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(4) > div.col-sm-8.col-xs-12:first-child > div.box:nth-child(5)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(4) > div.col-sm-8.col-xs-12:first-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(4) > div.col-sm-8.col-xs-12:first-child > div.spacer-20:nth-child(4)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(4) > div.col-sm-8.col-xs-12:first-child > div.box:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(2) > div.col-sm-8.col-xs-12:first-child > div.hidden-xs:nth-child(5) > iframe
+
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(2) > div.col-sm-8.col-xs-12:first-child > div.spacer-20:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(2) > div.col-sm-8.col-xs-12:first-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:first-child > div.col-sm-12.col-xs-12 > div.row.snapshot-headline:first-child > div.col-sm-7:last-child > div.row.hidden-xs.relative:last-child > div.col-xs-12 > div.pull-sm-right:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:first-child > div.col-sm-12.col-xs-12 > div.row:nth-child(8) > div.col-xs-12 > div.hidden-xs:first-child > div.infobox-options:first-child > div.infobox-options-tab
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:first-child > div.col-sm-12.col-xs-12 > div.row.snapshot-headline:first-child > div.col-sm-5:first-child > h1.font-resize:first-child > span.instrument-id > span.color-blue.glyphicon.glyphicon-copy:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:first-child > div.col-sm-12.col-xs-12 > div.row.snapshot-headline:first-child > div.col-sm-5:first-child > h1.font-resize:first-child > span.instrument-id > span.color-blue.glyphicon.glyphicon-copy:first-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(9) > div.col-xs-12
+finanzen.net###header-nav-3 > li:nth-child(2) > a
+finanzen.net###header-nav-3 > li:nth-child(3) > a
+finanzen.net###header-nav-3 > li:nth-child(6) > a:first-child
+finanzen.net###header-nav-3 > li:nth-child(7) > a
+finanzen.net###header-nav-3 > li:nth-child(8) > a
+finanzen.net###header-nav-3 > li:nth-child(9) > a:first-child
+finanzen.net###header-nav-3 > li:nth-child(10) > a
+finanzen.net###header-nav-3 > li:nth-child(11) > a:first-child
+finanzen.net###header-nav-3 > li:nth-child(12) > a:first-child
+finanzen.net###header-nav-3 > li:nth-child(13) > a
+finanzen.net###header-nav-3 > li.last:last-child > a:first-child
+finanzen.net###header-nav-3 > li:first-child > a
+finanzen.net###header-nav-2 > li:nth-child(15) > a
+finanzen.net###header-nav-3 > li:last-child
+finanzen.net###brokerage-li > a:first-child
+finanzen.net###header-nav-1 > li.oskar:last-child > a
+finanzen.net###header-nav-1 > li:nth-child(2)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > nav.row.header-nav-1:nth-child(4) > div.container > div.row.hidden-xs > div.col-xs-12
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(15) > div.col-sm-4:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(15) > div.col-sm-8:first-child > div.row > div.col-sm-6:last-child > div.box:nth-child(4)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(15) > div.col-sm-8:first-child > div.row
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(13) > div.col-xs-12
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(14)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(18) > div.col-xs-12 > div.box.highlightbox.dynamic-content.no-box-border:nth-child(4)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(18) > div.col-xs-12 > div.hidden-xs:last-child > div.box:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(17) > div.col-sm-6:last-child > div.box.table-quotes:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(17)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(16) > div.col-xs-12 > h2.headline-container:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(21)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(24)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(19) > div.col-xs-12 > div.middle-nav-container
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(23) > div.col-xs-12
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(25) > div.col-sm-8:first-child > div.row
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(25) > div.col-sm-4:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(26)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(18) > div.col-xs-12 > div.spacer-20:nth-child(5)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(18) > div.col-xs-12 > div.spacer-20:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(16) > div.col-xs-12 > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(18) > div.col-xs-12 > div.hidden-xs:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(16) > div.col-xs-12 > div.spacer-20:nth-child(2)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(27) > div.col-xs-12 > div.hidden-xs:last-child > div.box:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(12) > div.col-sm-8:last-child > div.box.table-quotes:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(11) > div.col-xs-12 > div.hidden-xs:last-child > div.box:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(12)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(11) > div.col-xs-12 > div.hidden-xs:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(20)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(39)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(40) > div.col-xs-12 > div.hidden-xs:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(37) > div.col-xs-12 > h2.headline-container
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(38)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(36) > div.col-xs-12 > div.hidden-xs:last-child > div.box.highlightbox.dynamic-content.flatContent:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(36) > div.col-xs-12 > div.hidden-xs:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(42)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(47) > div.col-xs-12 > div.hidden-xs:last-child > div.box:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(36) > div.col-xs-12 > div.hidden-xs:last-child > div.box:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(31) > div.col-xs-12 > div.hidden-xs:last-child > div.box:first-child
+finanzen.net###fragSectionNewslistPageable13 > div.clearfix.section-news
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(6) > div.col-xs-12 > div.hidden-xs:last-child > div.box.bgBlueFinanzenNet:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-8:first-child > div.box.highlightbox.dynamic-content.no-box-border:nth-child(13)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-8:first-child > div.box.highlightbox.dynamic-content.no-box-border:nth-child(11)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-4:last-child > div.box:nth-child(3)
+finanzen.net###fragHomepageIndexTopFlop > div.clearfix:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(7) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(5) > a
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(7) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:last-child > a
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(29) > div.col-sm-4.col-xs-12:last-child > div.box:nth-child(3)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(30) > div.col-sm-4.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(20) > div.col-sm-4:last-child > div.box.realtimeBox:first-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(20) > div.col-sm-4:last-child > div.box.table-quotes:nth-child(6)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(24) > div.col-sm-4.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(25) > div.col-sm-4.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(21) > div.col-sm-4:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(26) > div.col-sm-4.col-xs-12:last-child > div.box-xs:nth-child(8)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(27) > div.col-sm-4.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(28) > div.col-xs-12
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(29)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.lazy:nth-child(30)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(31)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(32) > div.col-sm-4.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(32) > div.col-sm-8.col-xs-12:nth-child(2) > div.row.box-bg:first-child > div.col-xs-12 > div:last-child
+finanzen.net###wikifolio-trades
+finanzen.net###infoBoxTable > tbody > tr:last-child > td:nth-child(3) > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(5) > td:nth-child(3) > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(4) > td:nth-child(3) > a
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(14) > div.col-xs-12:last-child > div.hidden-xs:first-child > div.infobox-options:first-child > div.infobox-options-tab
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(14) > div.col-xs-12:first-child > div.row.snapshot-headline:first-child > div.col-sm-7:last-child > div.row.hidden-xs.relative:last-child > div.col-xs-12
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:nth-child(3) > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(2) > td:nth-child(3) > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:nth-child(3)
+finanzen.net###infoBoxTable > tbody > tr:last-child > td:nth-child(3)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(4) > td:nth-child(3)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(5) > td:nth-child(3)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(2) > td:nth-child(3)
+finanzen.net###infoBoxTable > tbody > tr:first-child > th:nth-child(2)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(5) > td:first-child > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(4) > td:first-child > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:first-child > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(2) > td:last-child
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:last-child
+finanzen.net###infoBoxTable > tbody > tr:nth-child(4) > td:last-child
+finanzen.net###infoBoxTable > tbody > tr:nth-child(5) > td:last-child
+finanzen.net###infoBoxTable > tbody > tr:last-child > td:last-child
+finanzen.net###infoBoxTable > tbody > tr:first-child > th:last-child
+finanzen.net###infoBoxTable > tbody > tr:last-child > td:nth-child(6)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(5) > td:nth-child(6)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(4) > td:nth-child(6)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:nth-child(6)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(2) > td:nth-child(6)
+finanzen.net###infoBoxTable > tbody > tr:first-child > th:nth-child(5)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(33) > div.col-sm-4.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(33) > div.col-sm-8.col-xs-12:nth-child(2) > div.row.box-bg:first-child > div.col-xs-12 > div:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(32)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.lazy:nth-child(31)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(30)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(27) > div.col-sm-8.col-xs-12:nth-child(2) > div.box:nth-child(8)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(26) > div.col-sm-4.col-xs-12:last-child > div.box.table-quotes:nth-child(10)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(26) > div.col-sm-8.col-xs-12:nth-child(2) > div.box:nth-child(8)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(26) > div.col-sm-4.col-xs-12:last-child > div.spacer-20:nth-child(11)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(26) > div.col-sm-4.col-xs-12:last-child > div.spacer-20:nth-child(9)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(26) > div.col-sm-4.col-xs-12:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.row.header.hidden-xs:nth-child(2) > div.col-sm-6.col-xs-12.text-right:last-child
+finanzen.net###infoBoxTable > tbody > tr:nth-child(5) > td:nth-child(5)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(4) > td:nth-child(5)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:nth-child(5)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(5) > td:nth-child(4)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(4) > td:nth-child(4)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:nth-child(4) > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:nth-child(4)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(2) > td:nth-child(4) > a
+finanzen.net###infoBoxTable > tbody > tr:first-child > th:nth-child(3)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(2) > td:nth-child(4)
+finanzen.net###infoBoxTable > tbody > tr:nth-child(4) > td:first-child
+finanzen.net###infoBoxTable > tbody > tr:nth-child(4) > td:nth-child(2) > span.text-link
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:first-child
+finanzen.net###infoBoxTable > tbody > tr:nth-child(3) > td:nth-child(2) > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(5) > td:nth-child(2) > span.text-link
+finanzen.net###infoBoxTable > tbody > tr:nth-child(2) > td:nth-child(2) > a
+finanzen.net###infoBoxTable > tbody > tr:nth-child(2) > td:nth-child(2)
+finanzen.net###infoBoxTable > tbody > tr:last-child > td:first-child > a
+finanzen.net###infoBoxTable > tbody > tr:last-child > td:first-child
+finanzen.net###infoBoxTable > tbody > tr:first-child > th:nth-child(4)
+finanzen.net###infoBoxTable > tbody > tr:first-child > th:first-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(14) > div.col-xs-12:first-child > div.spacer-10:nth-child(5)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-20:nth-child(19)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(20) > div.col-xs-12 > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(14) > div.col-xs-12:last-child > div.hidden-xs:first-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(21) > div.col-sm-8:first-child > div.spacer-20:nth-child(3)
+finanzen.net###ChartNotification
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(21) > div.col-sm-8:first-child > div.box.shareDetailChart:nth-child(2) > div.subtitle:nth-child(3) > div.chart-options.clearfix.hidden-xs > div.menuName:last-child
+finanzen.net###jsExchangeSelect
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(20) > div.col-xs-12
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row.realtimeSmall:nth-child(18) > div.col-sm-4:first-child > div.box.table-quotes:first-child > div.row.chartLegend:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row.realtimeSmall:nth-child(18) > div.col-sm-4:first-child > div.box.table-quotes:first-child > div.spacer-5:nth-child(4)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row.realtime:nth-child(19) > div.col-xs-12 > div.box:first-child > div.subtitle:nth-child(3) > div.inline:nth-child(2)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row.realtime:nth-child(19) > div.col-xs-12 > div.box:first-child > div.subtitle:nth-child(3) > div.inline:first-child
+finanzen.net###realtime_content_1 > div.table-responsive:first-child > table.table.table-fixed.plotline.small-font > tbody:last-child > tr > td.pointer:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(19) > div.col-xs-12 > div.box:nth-child(3)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-60.hidden-xs:nth-child(35)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-20:nth-child(36)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(27) > div.col-sm-8.col-xs-12:nth-child(2) > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-40:nth-child(33)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-60.hidden-xs:nth-child(36)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-40:nth-child(34)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(35) > div.col-xs-12
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(33) > div.col-sm-8.col-xs-12:nth-child(2) > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-20:nth-child(37)
+finanzen.net###header-nav-2 > li:nth-child(13)
+finanzen.net###header-nav-2 > li:nth-child(12)
+finanzen.net###header-nav-2 > li:nth-child(14)
+finanzen.net##div.wrapper:nth-child(12) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(18)
+finanzen.net##div.wrapper:nth-child(12) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(59)
+finanzen.net##div.wrapper:nth-child(12) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(56) > div.col-sm-4:last-child
+finanzen.net##div.wrapper:nth-child(12) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(56)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(52) > div.col-xs-12
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(51)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(46) > div.col-sm-4:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(35)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(30) > div.col-sm-4:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(11) > div.col-xs-12 > div.row:first-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(27) > div.col-xs-12 > div.hidden-xs:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-8:first-child > div.box.highlightbox.dynamic-content.no-box-border:nth-child(18)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-8:first-child > div.box.highlightbox.dynamic-content.no-box-border:nth-child(16)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(7) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(7) > a
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(7) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(6) > a
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(7) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(4) > a
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(10) > div.col-sm-4:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(10) > div.col-sm-8:first-child > div.row > div.col-sm-6.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(7) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(3) > a
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(7) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(2) > a
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(28) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:last-child > a
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(28) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(2) > a
+finanzen.net###infoBoxTable > tbody:last-child > tr:first-child > td:last-child > a
+finanzen.net###infoBoxTable > thead:first-child > tr > th:last-child
+finanzen.net###infoBoxTable > thead:first-child > tr > th:nth-child(5)
+finanzen.net##div.wrapper:nth-child(12) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:last-child > div.col-sm-12.col-xs-12 > div.row:first-child > div.col-xs-12:last-child
+flatex.de###c105065
+flatex.de###c104995 > div.wrapper > div.contentstream
+flatex.de###languageSelector
+flatex.de###top > div.wrapper > nav.top-bar:nth-child(3) > section.top-button-section:last-child > ul.top-button-group:last-child > li.has-form.createAccount.clientLogin > a.top-button.buttonAccount:last-child
+flatex.de###fintechStockInfo > a
+flatex.de###navigationpage_18651
+flatex.de###bottom > div.footer:first-child
+flatex.de###contentContainer > div > div.middle.ceElem.moodType3.greyLightBackground.hide-for-medium-down:last-child
+flatex.de###c230381
+flatex.de###webfiliale_login > ul.formDataList:nth-child(3) > li.small-12.medium-6.large-6.columns.noMargin:last-child
+flatex.de###webfiliale_login > ul.formDataList:first-child > li.small-12.medium-12.large-12.columns.noMargin:last-child > div.sessionpassHelp.hide-for-small:last-child
+flatex.de###c117895 > p.bodytext:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(50) > div.col-sm-4.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(31) > div.col-xs-12 > div.hidden-xs:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-4:last-child > div.spacer-20:nth-child(6)
+ebay.de###items_list10
+ebay.de###items_list9
+ebay.de###gh-cat
+ebay.de###gh-as-a
+ebay.de###gh-shop
+ebay.de##div.srp-main.srp-main--isLarge:nth-child(9) > div.s-feedback:last-child
+ebay.de##div.srp-main.srp-main--isLarge:nth-child(9) > div.s-answer-region.s-answer-region-above-river:first-child
+ebay.de###mainContent > div.s-answer-region.s-answer-region-center-top:first-child > div.srp-controls > div.srp-horizontal-refinements:first-child > div.srp-horizontal-refinements__group:last-child > div.srp-controls__control.srp-view-options
+ebay.de###zoom_enlarge_msg_cnt
+ebay.de###PicturePanel > div.vi-pbh.pp-ic500:last-child
+ebay.de###CenterPanelInternal > div:nth-child(2) > span.vi-core-prdReviewCntr:last-child
+ebay.de###mainContent > form:last-child > div.c-std.vi-ds3cont-box-marpad:nth-child(2) > div.watchListCmp.nba-watch-tooltip-dweb.vi-noborder:nth-child(2) > table.vi-bboxrev-tbl > tbody > tr
+ebay.de###BottomPanel > div.tabbable:nth-child(8) > div.pglv-pr-rep:first-child > a
+ebay.de###glbfooter
+ebay.de###FootPanel
+ebay.de###PicturePanel > div.vi-pbh.pp-ic400:last-child
+ebay.de###gh-bti
+ebay.de###gh-bt
+ebay.de###BottomPanel > div:nth-child(9)
+ebay.de###x-refine__group__1 > ul.x-refine__main__value > li.x-refine__main__list--value > div.x-refine__multi-select.x-refine__icon > a > div.x-refine__select__svg
+tagesschau.de###header > div.wrapper > div.section.sectionA > div.masternavi:first-child
+tagesschau.de###header > div.wrapper > div.section.sectionA > div.subnavi:nth-child(5) > ul.ressorts:last-child > li:last-child
+tagesschau.de###header > div.wrapper > div.section.sectionA > div.subnavi:nth-child(5) > ul.ressorts:last-child > li:nth-child(9)
+tagesschau.de###header > div.wrapper > div.section.sectionA > div.subnavi:nth-child(5) > ul.ressorts:last-child > li:nth-child(8)
+tagesschau.de###header > div.wrapper > div.section.sectionA > div.subnavi:nth-child(5) > ul.ressorts:last-child > li:nth-child(5)
+tagesschau.de###footer
+tagesschau.de###content > div.wrapper > div.section.sectionA:nth-child(25)
+tagesschau.de###content > div.wrapper > div.section.sectionC.kachel:nth-child(23)
+tagesschau.de###content > div.wrapper > div.section.sectionA:nth-child(17)
+movie4k.lol###menue > div.aussen:last-child
+movie4k.lol###attentionIcon
+movie4k.lol##div.flag-icon.flag-fr:nth-child(4)
+movie4k.lol##div.flag-icon.flag-es:nth-child(5)
+movie4k.lol##div.flag-icon.flag-en:nth-child(2)
+movie4k.lol##table:nth-child(11) > tbody > tr:first-child > td > table > tbody > tr > td:nth-child(2)
+movie4k.lol##table:nth-child(11) > tbody > tr:first-child > td > table > tbody > tr > td:nth-child(3)
+movie4k.lol##table:nth-child(11) > tbody > tr:first-child > td > table > tbody > tr > td:nth-child(4)
+movie4k.lol##table:nth-child(11) > tbody > tr:first-child > td > table > tbody > tr > td:nth-child(5)
+movie4k.lol##table:nth-child(11) > tbody > tr:first-child > td > table > tbody > tr > td.mainmenue:last-child
+movie4k.lol##table:nth-child(14) > tbody > tr:last-child > td > div.days:nth-child(3)
+movie4k.lol###tdmoviesheader
+movie4k.lol##div.flag-icon.flag-de:nth-child(3) > a > img
+movie4k.lol###load_trailer
+movie4k.lol###content
+movie4k.lol###dvg-loginform > fieldset.quick-login > form:nth-child(2)
+movie4k.lol##table:nth-child(14) > tbody > tr:first-child > td > table > tbody > tr > td:nth-child(4)
+movie4k.lol##table:nth-child(14) > tbody > tr:first-child > td > table > tbody > tr > td:nth-child(5)
+movie4k.lol##table:nth-child(14) > tbody > tr:first-child > td > table > tbody > tr > td:nth-child(3)
+movie4k.lol##table:nth-child(14) > tbody > tr:first-child > td > table > tbody > tr > td.mainmenue:last-child
+movie4k.lol##table:nth-child(14) > tbody > tr:first-child > td > table > tbody > tr > td:nth-child(2)
+movie4k.lol##div.flag-icon.flag-en:nth-child(5) > a > img
+movie4k.lol##div.flag-icon.flag-it:nth-child(9) > a > img
+movie4k.lol##div.flag-icon.flag-fr:nth-child(7) > a > img
+movie4k.lol##div.flag-icon.flag-jp:nth-child(10) > a > img
+movie4k.lol##div.flag-icon.flag-es:nth-child(8) > a > img
+movie4k.lol##div.flag-icon.flag-de:nth-child(6) > a > img
+movie4k.lol##div.flag-icon.flag-tr:nth-child(11) > a > img
+movie4k.lol##div.flag-icon.flag-ru:nth-child(12) > a > img
+movie4k.lol##div.flag-icon.flag-it:nth-child(6) > a > img
+movie4k.lol##div.flag-icon.flag-jp:nth-child(7) > a > img
+movie4k.lol##div.flag-icon.flag-tr:nth-child(8) > a > img
+movie4k.lol##div.flag-icon.flag-ru:nth-child(9) > a > img
+movie4k.lol##table:nth-child(11) > tbody > tr:last-child > td > div.days:nth-child(3)
+mydealz.de###main > div.tGrid-row:first-child > section.subNav:last-child > div.bg--color-greyPanel:first-child > div.page2-center.space--h-2.space--fromW3-h-3.space--t-2.space--b-1
+mydealz.de###main > div.tGrid-row:first-child > section.subNav:last-child
+mydealz.de###main > div.tGrid-row.height--all-full:nth-child(2) > section.listLayout.listLayout--side.cept-listing--list.tGrid.width--all-12.space--mb-4:nth-child(2) > div.listLayout-side.tGrid-cell.vAlign--all-t.hide--toW4:last-child > section.card.card--type-grid.listLayout-sideItem:nth-child(2) > div.card-inner
+mydealz.de###main > div.tGrid-row.height--all-full:nth-child(2) > section.listLayout.listLayout--side.cept-listing--list.tGrid.width--all-12.space--mb-4:nth-child(2) > div.listLayout-side.tGrid-cell.vAlign--all-t.hide--toW4:last-child > section.card.card--type-grid.listLayout-sideItem:nth-child(2)
+mydealz.de###main > div.tGrid-row.height--all-full:nth-child(2) > section.listLayout.listLayout--side.cept-listing--list.tGrid.width--all-12.space--mb-4:nth-child(2) > div.listLayout-side.tGrid-cell.vAlign--all-t.hide--toW4:last-child > section.card.card--type-vertical.cept-top-group-widget.listLayout-sideItem:nth-child(3)
+mydealz.de###main > div.tGrid-row.height--all-full:nth-child(2) > section.listLayout.listLayout--side.cept-listing--list.tGrid.width--all-12.space--mb-4:nth-child(2) > div.listLayout-side.tGrid-cell.vAlign--all-t.hide--toW4:last-child > section.cept-merchants-thumbnail.card.card--type-vertical.listLayout-sideItem:last-child
+mydealz.de###main > div.tGrid-row:first-child > header.width--all-12.forceLayer.zIndex--fixed.js-sticky:nth-child(6) > div.nav > div.nav-content.page2-center.tGrid.tGrid--auto.space--r-2.space--fromW3-l-2 > menu.tGrid-cell.hAlign--all-r.overflow--wrap-off:last-child
+mydealz.de###main > div.tGrid-row:first-child > header.width--all-12.forceLayer.zIndex--fixed.js-sticky:nth-child(6) > div.nav > div.nav-content.page2-center.tGrid.tGrid--auto.space--r-2.space--fromW3-l-2 > div.navMenu.lbox--v-9.space--r-2.space--fromW2-r-3.space--fromW3-ml-2:nth-child(2)
+mydealz.de###thread_1558037 > div.threadGrid > div.threadGrid-footerMeta:last-child > div.footerMeta.fGrid.width--all-12 > span.footerMeta-actionSlot:nth-child(2) > span:first-child > button.cept-save-btn.space--mr-2 > span.btn.btn--square.btn--mode-boxSec.cept-off
+mydealz.de###thread_### > div.threadGrid > div.threadGrid-footerMeta:last-child > div.footerMeta.fGrid.width--all-12 > span.footerMeta-actionSlot:nth-child(2) > span:first-child > button.cept-save-btn.space--mr-2 > span.btn.btn--square.btn--mode-boxSec.cept-off
+mydealz.de###footer > div.bg--color-inverted.space--v-3:last-child
+mydealz.de###footer > div.bg--color-inverted:first-child
+mydealz.de###footer
+amazon.de###desktop-banner
+amazon.de###gw-layout
+amazon.de###nav-main
+amazon.de###nav-logo > a.nav-sprite.nav-logo-tagline.nav-prime-try:last-child
+amazon.de###nav-hamburger-menu
+amazon.de###nav-link-prime
+amazon.de###nav-subnav
+amazon.de###navFooter > div.navFooterLine.navFooterLinkLine.navFooterDescLine:nth-child(5)
+amazon.de###navFooter
+amazon.de###rhf-container > div.rhf-border > div.rhf-footer:last-child
+amazon.de###rhf-container
+amazon.de###search > div.s-desktop-width-max.s-desktop-content.sg-row:nth-child(7) > div.sg-col-20-of-24.sg-col-28-of-32.sg-col-16-of-20.sg-col.sg-col-32-of-36.sg-col-8-of-12.sg-col-12-of-16.sg-col-24-of-28:last-child > div.sg-col-inner > span.rush-component:nth-child(12) > div > div.a-section.s-border-bottom > span.celwidget.slot\=FEEDBACK.template\=FEEDBACK.widgetId\=feedback.index\=0 > span.rush-component > div.a-section.a-spacing-medium.a-spacing-top-medium
+amazon.de###rhf
+amazon.de###search > div.s-desktop-width-max.s-desktop-content.sg-row:nth-child(7) > div.sg-col-20-of-24.sg-col-28-of-32.sg-col-16-of-20.sg-col.sg-col-32-of-36.sg-col-8-of-12.sg-col-12-of-16.sg-col-24-of-28:last-child > div.sg-col-inner > span.rush-component.s-brand-footer-container:nth-child(11) > div > div.a-section.a-spacing-top-medium.s-border-bottom
+gamestar.de###header-brand > div.container > div.row > div.col-xs-4:last-child
+amazon.de###edpIngress_feature_div
+amazon.de###acBadge_feature_div > div.ac-badge-wrapper:first-child > span.ac-for-text:last-child
+amazon.de###ask_feature_div
+amazon.de###seeMoreDetailsLink
+amazon.de###feature-bullets > span.caretnext:nth-child(3)
+amazon.de###bbop_feature_div
+amazon.de###detailPageGifting_feature_div
+amazon.de###addToWishlist_feature_div
+amazon.de###buyNow_feature_div
+amazon.de###tellAFriendBox_feature_div
+amazon.de###skyCitySoftMerge_feature_div
+amazon.de###moreBuyingChoices_feature_div
+amazon.de###d0625f64-2748-4188-ab19-774157f87f95 > div.threepsl-footer:last-child
+amazon.de###dp-container > div.celwidget:nth-child(26)
+amazon.de###prodDetails > div.wrapper.DElocale:nth-child(4) > div.column.col2:nth-child(2)
+amazon.de###cpsia-product-safety-warning_feature_div
+amazon.de###ask-btf-container > div.askInlineWidget > div.askWidgetQuestions.askLiveSearchHide:nth-child(3) > div.a-row.a-spacing-small.a-spacing-top-base:first-child
+amazon.de###reviewsMedley > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > span.cr-lazy-widget.cr-solicitation:nth-child(6)
+amazon.de###reviewsMedley > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > hr.a-spacing-extra-large.a-spacing-top-extra-large.a-divider-normal:nth-child(7)
+amazon.de###reviewsMedley > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > hr.a-spacing-large.a-spacing-top-large.a-divider-normal:nth-child(4)
+amazon.de###reviewsMedley > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > span.cr-widget-Histogram:nth-child(3) > div.a-row.a-expander-container.a-spacing-top-small.a-expander-inline-container:last-child
+amazon.de###reviewsMedley > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > span.cr-lazy-widget.cr-summarization-attributes:nth-child(5)
+amazon.de###promotions_feature_div
+amazon.de###ask-dp-search_feature_div
+amazon.de###dpx-mirai-btf-shopbylook_feature_div
+amazon.de###sims-consolidated-1_feature_div
+amazon.de###productAlert_feature_div
+amazon.de###HLCXComparisonJumplink_feature_div
+amazon.de###availability_feature_div
+amazon.de###olpLinkWidget_feature_div
+amazon.de###sims-consolidated-2_feature_div
+amazon.de###addToWishlistAccordion_feature_div
+amazon.de###quickPromoDivId
+amazon.de###image-canvas-caption
+amazon.de###dp-container > div.celwidget:nth-child(19)
+amazon.de###dp-container > div.celwidget.pd_rd_w-bcJZA.pf_rd_p-5ef3a19a-079d-4f6b-a179-e016b10cb506.pd_rd_wg-1fbFZ.pf_rd_r-PXKS6M0MYEN2BNMY5GD6.pd_rd_r-84c5f11e-e4ee-4554-a2b0-79da13001872:nth-child(21)
+amazon.de###search > span.rush-component:nth-child(6) > div > span.celwidget.slot\=RESULT_INFO_BAR.template\=RESULT_INFO_BAR.widgetId\=result-info-bar.index\=0 > h1.a-size-base.s-desktop-toolbar.a-text-normal > div.s-desktop-width-max.sg-row-align-items-center.sg-row > div.sg-col-14-of-20.sg-col-26-of-32.sg-col-18-of-24.sg-col.sg-col-22-of-28.s-breadcrumb.sg-col-10-of-16.sg-col-30-of-36.sg-col-6-of-12:first-child
+amazon.de###usedOnlyBuybox > div.a-box.a-spacing-top-base:last-child
+amazon.de###dp-container > div.celwidget:nth-child(25)
+amazon.de###quickPromoBucketContent
+amazon.de###dp-container > div.a-section:nth-child(65)
+amazon.de###vatMessage
+amazon.de###regularprice_savings
+google.com###ow14
+google.com###fbar
+google.com###extrares
+google.com###rso > div.g.kno-kp.mnr-c.g-blk:nth-child(5)
+google.com###gb > div.gb_Uc.gb_Ua.gb_Tc > div.gb_Vc:first-child > div.gb_Lc:first-child
+finanzen.net###infoBoxTable > tbody:last-child > tr:first-child > td:nth-child(3) > a
+finanzen.net###infoBoxTable > tbody:last-child > tr:first-child > td:nth-child(5) > a
+@@||www.lenggries.de^$important,document,~extension
+flatex.de###desktopSearch > li.search.has-form
+youtube.com###sponsor-button
+youtube.com###subscribe-button
+youtube.com###movie_player > div.ytp-chrome-bottom:last-child > div.ytp-chrome-controls:last-child > div.ytp-right-controls:last-child > button.ytp-miniplayer-button.ytp-button:nth-child(4)
+youtube.com###movie_player > div.ytp-chrome-bottom:last-child > div.ytp-chrome-controls:last-child > div.ytp-right-controls:last-child > button.ytp-airplay-button.ytp-button:nth-child(8)
+youtube.com###movie_player > div.ytp-chrome-bottom:last-child > div.ytp-chrome-controls:last-child > div.ytp-right-controls:last-child > button.ytp-subtitles-button.ytp-button:first-child
+youtube.com###movie_player > div.ytp-chrome-bottom:last-child > div.ytp-chrome-controls:last-child > div.ytp-left-controls:first-child > a.ytp-next-button.ytp-button:nth-child(3)
+youtube.com###movie_player > div.ytp-chrome-bottom:last-child > div.ytp-chrome-controls:last-child > div.ytp-right-controls:last-child > button.ytp-fullscreen-button.ytp-button:last-child
+youtube.com###country-code
+youtube.com###sort-menu
+youtube.com###simple-box
+youtube.com###reply-button-end
+youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(3)
+youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:last-child
+youtube.com###items > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer:nth-child(3)
+youtube.com###items > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer:nth-child(2)
+youtube.com###items > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer:first-child
+youtube.com###expandable-items > ytd-guide-entry-renderer.style-scope.ytd-guide-collapsible-entry-renderer:last-child
+youtube.com###header-entry
+youtube.com###contentContainer > div.banner-visible-area.style-scope.ytd-c4-tabbed-header-renderer:nth-child(2)
+youtube.com###tabsContent > paper-tab.style-scope.ytd-c4-tabbed-header-renderer:nth-child(8)
+youtube.com###tabsContent > paper-tab.style-scope.ytd-c4-tabbed-header-renderer:nth-child(10)
+youtube.com###tabsContent > paper-tab.style-scope.ytd-c4-tabbed-header-renderer:nth-child(12)
+youtube.com###tabsContent > paper-tab.style-scope.ytd-c4-tabbed-header-renderer:nth-child(14)
+youtube.com###hover-overlays
+youtube.com###top-level-buttons > ytd-button-renderer.style-scope.ytd-menu-renderer.force-icon-button.style-default.size-default:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(6) > div.col-sm-4.col-xs-12:last-child > div.box:nth-child(6)
+finanzen.net###infoBoxTable > tbody:last-child > tr:first-child > td:nth-child(3)
+finanzen.net###infoBoxTable > thead:first-child > tr > th:nth-child(2)
+finanzen.net###infoBoxTable > thead:first-child > tr > th:nth-child(3)
+finanzen.net###infoBoxTable > thead:first-child > tr > th:nth-child(4)
+finanzen.net###infoBoxTable > tbody:last-child > tr:nth-child(2) > td:nth-child(5)
+finanzen.net###infoBoxTable > tbody:last-child > tr:nth-child(2)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(4) > div.col-sm-4.col-xs-12.col-sm-push-8:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(4) > div.col-sm-8.col-xs-12.col-sm-pull-4:last-child > div:nth-child(2) > div.hidden-xs:first-child > iframe
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(4) > div.col-sm-8.col-xs-12.col-sm-pull-4:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:last-child > div.col-sm-12.col-xs-12 > div.mleft-10.medium-font.light-grey:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:last-child > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(2)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(3) > div.col-sm-12.col-xs-12 > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.box.medium-font.border-blue-background-white:nth-child(15)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(17) > div.col-xs-12 > div.box.highlightbox.dynamic-content:nth-child(11)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(17) > div.col-xs-12 > div.box.table-quotes:nth-child(9)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(2) > div.col-sm-4.col-xs-12:last-child > div.box.table-quotes.pricebox:nth-child(2) > ul.teaser-list.no-margin-bottom:last-child > li:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(6) > div.col-sm-8.col-xs-12:first-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(6) > div.col-sm-4.col-xs-12:last-child > div.spacer-20:nth-child(7)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(6) > div.col-sm-4.col-xs-12:last-child > div.spacer-20:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(6) > div.col-sm-4.col-xs-12:last-child > div.spacer-20:nth-child(10)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(6) > div.col-sm-4.col-xs-12:last-child > div.table-quotes:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(4) > div.col-sm-8.col-xs-12:first-child > div.spacer-20:nth-child(2)
+finanzen.net###infoBoxTable > tbody:last-child > tr:first-child > td:nth-child(2) > a
+finanzen.net##div.wrapper:nth-child(12) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:first-child > div.col-sm-12.col-xs-12 > div.row:nth-child(8) > div.col-xs-12 > div.hidden-xs:first-child > div.infobox-options:first-child > div.infobox-options-tab
+finanzen.net###infoBoxTable > tbody:last-child > tr:first-child > td:nth-child(2)
+finanzen.net###infoBoxTable > tbody:last-child > tr:first-child > td:nth-child(5)
+finanzen.net##div.wrapper:nth-child(12) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:first-child > div.col-sm-12.col-xs-12 > div.row.snapshot-headline:first-child > div.col-sm-7:last-child > div.row.hidden-xs.relative:last-child > div.col-xs-12
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(58)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(53)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(60)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(59)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div.row:nth-child(18) > div.col-xs-12
+finanzen.net###collapseExample > div.col-xs-12.hidden-xs:first-child
+finanzen.net###collapseExample > div.col-xs-12:last-child
+finanzen.net###infoBoxTable > thead:first-child
+finanzen.net###infoBoxTable > tbody:last-child > tr:first-child > td:nth-child(4)
+finanzen.net###official
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(15) > div.row.equalheights:nth-child(2) > div.col-sm-4.col-xs-12:last-child > div.box.table-quotes.pricebox:nth-child(2) > ul.box-nav.checkTabNavigationWidth:nth-child(3)
+finanzen.net###infoBoxTable > tbody > tr:last-child > td:nth-child(4)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row.header-nav-1.hidden-xs:nth-child(4)
+finanzen.net##div.wrapper:nth-child(12) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > nav.row.header-nav-1:nth-child(4) > div.container > div.row.hidden-xs > div.col-xs-12
+finanzen.net##div.wrapper:nth-child(12) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div.row:nth-child(10)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.row.header.hidden-xs:nth-child(2)
+boerse.to###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section.visitorPanel:first-child
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > div.breadBoxTop.withTopCtrl:first-child > div.topCtrl:first-child
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > div.nodeListNewDiscussionButton:nth-child(5)
+boerse.to##footer:nth-child(3) > div.footerLegal:nth-child(2)
+boerse.to##footer:nth-child(3) > div.footer:first-child
+boerse.to###content > div.pageWidth > div.pageContent > div.breadBoxBottom:last-child
+boerse.to###navigation > div.pageContent > nav > div.navTabs:first-child > ul.publicTabs:first-child > li.navTab.forums.selected:first-child > div.tabLinks.forumsTabLinks:last-child > ul.secondaryContent.blockLinksList:last-child > li:first-child
+boerse.to###navigation > div.pageContent > nav > div.navTabs:first-child > ul.publicTabs:first-child > li.navTab.forums.selected:first-child > div.tabLinks.forumsTabLinks:last-child > ul.secondaryContent.blockLinksList:last-child > li:nth-child(2)
+boerse.to###navigation > div.pageContent > nav > div.navTabs:first-child > ul.publicTabs:first-child > li.navTab.forums.selected:first-child > div.tabLinks.forumsTabLinks:last-child > ul.secondaryContent.blockLinksList:last-child > li:nth-child(3)
+boerse.to###navigation > div.pageContent > nav > div.navTabs:first-child > ul.publicTabs:first-child > li.navTab.forums.selected:first-child > div.tabLinks.forumsTabLinks:last-child > ul.secondaryContent.blockLinksList:last-child
+boerse.to###navigation > div.pageContent > nav > div.navTabs:first-child > ul.visitorTabs:last-child > li.navTab.inbox.Popup.PopupControl.PopupContainerControl.PopupOpen:nth-child(2)
+boerse.to###navigation > div.pageContent > nav > div.navTabs:first-child > ul.visitorTabs:last-child > li.navTab.alerts.Popup.PopupControl.PopupContainerControl.PopupOpen:last-child
+boerse.to###navigation > div.pageContent > nav > div.navTabs:first-child > ul.publicTabs:first-child
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > a.OverlayTrigger:nth-child(4)
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > div.pageNavLinkGroup:nth-child(5) > div.PageNav:last-child
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > div.pageNavLinkGroup:nth-child(5) > div.linkGroup.SelectionCountContainer:nth-child(2) > a.OverlayTrigger:last-child
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > div.pageNavLinkGroup:nth-child(5) > div.threadrating:first-child
+boerse.to###pageDescription
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > div:nth-child(8)
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > div.quickReply.message:nth-child(9)
+boerse.to###commentSubmit-12645788
+boerse.to###widget-5
+boerse.to###QuickSearch > form.formPopup > div.secondaryControls.active:nth-child(2) > div.controlsWrapper:last-child > a.button:last-child
+boerse.to###QuickSearch > form.formPopup > div.secondaryControls.active:nth-child(2) > div.controlsWrapper:first-child
+boerse.to###commonSearches
+boerse.to###widget-11 > a.quicklinks_heading:nth-child(98)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(104)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(110)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(116)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(114)
+boerse.to###widget-11 > a.quicklinks_heading:nth-child(112)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(108)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(106)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(100)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(118)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(120)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(154)
+boerse.to###widget-3
+boerse.to###widget-4
+boerse.to###widget-11 > a.quicklinks_link:nth-child(140)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(132)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(134)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(136)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(130)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(138)
+boerse.to###widget-11 > a.quicklinks_heading:nth-child(142)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(144)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(146)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(156)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(152)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(158)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(160)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(150)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(148)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(122)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(128)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(124)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(126)
+boerse.to###widget-11 > a.quicklinks_link:nth-child(102)
+boerse.to###DiscussionListOptionsHandle > a
+boerse.to###widget-16
+boerse.to###ConversationsMenu
+boerse.to###AlertsMenu
+boerse.to###navigation > div.pageContent > nav > div.navTabs:first-child > ul.visitorTabs:last-child > li.navTab.inbox.Popup.PopupControl.PopupClosed.PopupContainerControl:nth-child(2) > a.navLink.NoPopupGadget > i.fa.fa-envelope-o:first-child
+boerse.to###navigation > div.pageContent > nav > div.navTabs:first-child > ul.visitorTabs:last-child > li.navTab.alerts.Popup.PopupControl.PopupClosed.PopupContainerControl:last-child > a.navLink.NoPopupGadget > i.fa.fa-map-marker:first-child
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > div.pageNavLinkGroup:nth-child(4) > div.linkGroup.SelectionCountContainer:first-child
+boerse.to###content > div.pageWidth > div.pageContent > div.mainContainer:first-child > div.mainContent > div.pageNavLinkGroup:nth-child(6) > div.linkGroup.SelectionCountContainer:first-child
+boerse.to###informationen\.1
+boerse.to###talk\.42
+boerse.to###tech-talk\.323
+boerse.to###netzwelt\.134
+boerse.to###boerse\.6
+winfuture.mobi###misc
+winfuture.mobi##div.text.mtop10:nth-child(9)
+winfuture.mobi##div.text.mtop5:nth-child(6) > h2:nth-child(16)
+winfuture.mobi##div.text.mtop5:nth-child(6) > div.changelog_list:nth-child(17)
+winfuture.mobi##div.date.fsize14.mtop10:nth-child(13)
+winfuture.mobi##div.text:nth-child(14)
+winfuture.mobi###footer > a.r.bnt:nth-child(2)
+winfuture.mobi##div.footer:nth-child(19) > a.r.bnt:nth-child(2)
+winfuture.mobi###footer > a.l.bnt:first-child
+winfuture.mobi##div.footer:nth-child(19) > a.l.bnt:first-child
+winfuture.mobi###main > div.teaser.mtop10:nth-child(3) > div:first-child
+winfuture.mobi###main > div.teaser:nth-child(4)
+winfuture.mobi##div.footer:nth-child(8) > a.l.bnt:first-child
+winfuture.mobi##div.footer:nth-child(8) > a.r.bnt:nth-child(2)
+winfuture.mobi##div.text.mtop5:nth-child(7) > form:nth-child(21)
+winfuture.mobi##div.footer:nth-child(16) > a.r.bnt:nth-child(2)
+winfuture.mobi##div.footer:nth-child(16)
+winfuture.mobi###w6e28f
+winfuture.mobi###w3b467
+winfuture.mobi###main > div.teaser.mtop10:nth-child(3) > div.c_t:last-child > div.c_text:nth-child(14) > a.reply:first-child
+ebay-kleinanzeigen.de###covid-box
+ebay-kleinanzeigen.de###home-gallery
+ebay-kleinanzeigen.de###home-ads > header.splitheader.l-container-row:first-child > div.splitheader--addon:last-child
+ebay-kleinanzeigen.de###site-footer
+ebay-kleinanzeigen.de###home-topcitybx
+ebay-kleinanzeigen.de###store-gallery
+ebay-kleinanzeigen.de###home-tsr-srvy
+ebay-kleinanzeigen.de###site-signin > nav:last-child > ul.linklist > li:nth-child(2)
+ebay-kleinanzeigen.de###site-signin > nav:last-child > ul.linklist > li:last-child
+ebay-kleinanzeigen.de###site-logo-claim
+ebay-kleinanzeigen.de###extra-info
+ebay-kleinanzeigen.de###my-manageads-content > div:nth-child(5)
+ebay-kleinanzeigen.de###my-manageads-adlist > li.cardbox > article.manageaditem > section.manageaditem-main:first-child > section.manageaditem-features:last-child > table.manageaditem-featuretable
+ebay-kleinanzeigen.de###my-manageads-adlist > li.cardbox > article.manageaditem > footer:last-child > section.manageaditem-actions:first-child > ul.linklist > li:last-child
+ebay-kleinanzeigen.de###notification-center-bell
+ebay-kleinanzeigen.de###brws_banner-supersize
+ebay-kleinanzeigen.de###srchrslt-content > div.l-container-row.contentbox.j-follow-search:nth-child(3) > header.splitheader-centered > div.splitheader--title.icon-headline-medium.box-iconbox:first-child > div:last-child
+ebay-kleinanzeigen.de###srchrslt-content > div.l-container-row.contentbox.j-follow-search:nth-child(3) > header.splitheader-centered > div.splitheader--title.icon-headline-medium.box-iconbox:first-child > div:first-child
+ebay-kleinanzeigen.de###browsebox-searchform > div.browsebox.contentbox:last-child > section:last-child
+ebay-kleinanzeigen.de###srchrslt-shngls
+ebay-kleinanzeigen.de###srchrslt-adtable-topads
+ebay-kleinanzeigen.de###viewad-action-box
+ebay-kleinanzeigen.de###vap-pstrads
+ebay-kleinanzeigen.de###liberty-vip-middle
+ebay-kleinanzeigen.de###liberty-vip-bottom
+ebay-kleinanzeigen.de###liberty-vip-pla
+ebay-kleinanzeigen.de###home-cntnt
+ebay-kleinanzeigen.de###home-ctgrs
+ebay-kleinanzeigen.de###viewad-contact-form > fieldset:last-child > div.formgroup:last-child > div.formgroup-input > p.text-small.j-viewad-contact-legal:first-child
+ebay-kleinanzeigen.de###vap-smlrads
+ebay-kleinanzeigen.de###viewad-contact-bottom-header
+facebook.com###pagelet_dock
+facebook.com###u_0_a > div._cy6:first-child > div._4kny._2s24:last-child
+facebook.com###u_0_a > div._cy6._2s24:last-child > div._4kny:first-child
+facebook.com###userNav
+facebook.com###navItem_2392950137
+facebook.com###navItem_1606854132932955
+facebook.com###navItem_217974574879787
+facebook.com###navItem_250100865708545
+facebook.com###navItem_193356651002223
+facebook.com###fbfeed__sub_header_id_263\;100001878619444\;3658385384234046\;3658385384234046\;1585566317\:-787193324346424120\:5\:0 > div._6a._29ee._4f-9._43_1:last-child
+facebook.com###u_0_a > div._cy6:first-child > div._4kny._2s24:nth-child(2)
+facebook.com###u_fetchstream_16_e > div._16ve:nth-child(4) > span._16vg._1oxv:first-child > div._5xmp:nth-child(3)
+facebook.com###u_fetchstream_18_e > div._16ve:nth-child(4) > span._16vg._1oxv:first-child > div._5xmp:last-child
+facebook.com###profile_timeline_info_review
+facebook.com###timeline_small_column > div:last-child
+facebook.com###intro_container_id > div._q6f:last-child
+facebook.com###pagelet_timeline_composer
+facebook.com###fbTimelineHeadline > div._50zj:nth-child(2) > div.actions._70j
+facebook.com###navItem_2344061033
+moodle.tum.de###inst45677 > div.card-body.p-3 > div.card-text.content.mt-3:last-child > div.no-overflow:first-child > p:last-child
+moodle.tum.de###inst45677 > div.card-body.p-3 > div.card-text.content.mt-3:last-child > div.no-overflow:first-child > p:nth-child(2)
+tumidp.lrz.de###title-h1
+tumidp.lrz.de###content > p:nth-child(2)
+moodle.tum.de###region-main > div:last-child > div.box.py-3.generalbox.sitetopic:nth-child(2) > div.no-overflow:nth-child(2) > div > div.teaser
+moodle.tum.de###region-main > div:last-child > div.box.py-3.generalbox.sitetopic:nth-child(2) > h2.sectionname:first-child
+moodle.tum.de###page-wrapper > nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex:nth-child(5) > ul.navbar-nav.d-none.d-md-flex:nth-child(3)
+moodle.tum.de###page-header > div.col-12.pt-3.pb-3
+moodle.tum.de###page-wrapper > nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex:nth-child(7) > ul.navbar-nav.d-none.d-md-flex:nth-child(3)
+moodle.tum.de###dropdown-1 > span.userbutton:first-child > span.avatars:last-child
+paypal.com###document-body > div:nth-child(2) > section.device-hero-organism.custom-hero:first-child > div.device-hero.custom-hero.theme-new-money:first-child
+paypal.com###document-body > div:nth-child(2) > section.generic-tabs:nth-child(4)
+paypal.com###four-panel
+paypal.com###footer
+paypal.com###document-body > div:nth-child(2) > section.pullout.theme-background-color-light:last-child
+paypal.com###three-panel
+paypal.com###document-body > div:nth-child(2) > div:nth-child(2)
+paypal.com###main-menu
+paypal.com###signup-button
+paypal.com###signupContainer
+paypal.com###main > footer.footer:last-child
+paypal.com###document-body > div:nth-child(2) > section.device-hero-organism.custom-hero:first-child
+flatex.de###top > div.wrapper > nav.top-bar:nth-child(3)
+flatex.de###top > div.wrapper > a.desktopLogo:first-child > span.logoClaim.hide-for-medium-down:last-child
+@@||www.campuspoint.de^$important,document,~extension
+youtube.com###movie_player > div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles:nth-child(18)
+ebay.de###rtm_list1 > div > div.carousel.hl-carousel.carousel--slides.carousel__autoplay > div.carousel__container > button.carousel__playback:last-child
+web.whatsapp.com###side > header._3auIg:first-child > div._20NlL:last-child > div._3Kxus.ba6sz > span > div.rAUz7:first-child
+web.whatsapp.com###app > div._347-w._2UMYL.app-wrapper-web.safari-fix.os-mac > div.app.h70RQ.two:last-child > div._1-iDe.Wu52Z:last-child > div._2zynu > div._2IVU3 > div._3MiDj:last-child > div._3McX8:last-child
+web.whatsapp.com###app > div._347-w._2UMYL.app-wrapper-web.safari-fix.os-mac > div.app.h70RQ.two:last-child > div._1-iDe.Wu52Z:last-child > div._2zynu > div._2IVU3 > div._3MiDj:last-child > div.dPZky:nth-child(2)
+web.whatsapp.com###main > footer._2tW_W:nth-child(7) > div._3pkkz.V42si.copyable-area:first-child > div.weEq5:last-child
+web.whatsapp.com###side > header._3auIg:first-child > div._20NlL:last-child > div._3Kxus.ba6sz > span > div.rAUz7:first-child
+web.whatsapp.com###app > div._347-w._2UMYL.app-wrapper-web.safari-fix.os-mac > div.app.h70RQ.two:last-child > div._1-iDe.Wu52Z:last-child > div._2zynu > div._2IVU3 > div._3MiDj:last-child > div._3McX8:last-child
+web.whatsapp.com###app > div._347-w._2UMYL.app-wrapper-web.safari-fix.os-mac > div.app.h70RQ.two:last-child > div._1-iDe.Wu52Z:last-child > div._2zynu > div._2IVU3 > div._3MiDj:last-child > div.dPZky:nth-child(2)
+web.whatsapp.com###main > footer._2tW_W:nth-child(7) > div._3pkkz.V42si.copyable-area:first-child > div.weEq5:last-child
+mydealz.de###main > div.tGrid-row.height--all-full:nth-child(2) > section.listLayout.listLayout--side.cept-listing--list.tGrid.width--all-12.space--mb-4:nth-child(2) > div.listLayout-side.tGrid-cell.vAlign--all-t.hide--toW4:last-child
+mydealz.de###main > div.tGrid-row:first-child > header.width--all-12.forceLayer.zIndex--fixed.js-sticky:nth-child(5) > div.nav > div.nav-content.page2-center.tGrid.tGrid--auto.space--r-2.space--fromW3-l-2 > div.navMenu.lbox--v-9.space--r-2.space--fromW2-r-3.space--fromW3-ml-2:nth-child(2)
+mydealz.de###main > div.tGrid-row:first-child > header.width--all-12.forceLayer.zIndex--fixed.js-sticky:nth-child(5) > div.nav > div.nav-content.page2-center.tGrid.tGrid--auto.space--r-2.space--fromW3-l-2 > menu.tGrid-cell.hAlign--all-r.overflow--wrap-off:last-child
+mydealz.de###main > div.tGrid-row.height--all-full:nth-child(2) > div.bg--main.boxSec-div.js-pagi-bottom.width--all-12.flex.forceLayer.js-sticky.zIndex--fixed.js-sticky-pagi--on:nth-child(3) > div.flex--inline.flex--dir-col.width--all-12
+mydealz.de###main > div.tGrid-row:first-child > header.width--all-12.forceLayer.zIndex--fixed.js-sticky:nth-child(5) > div.nav > div.nav-content.page2-center.tGrid.tGrid--auto.space--r-2.space--fromW3-l-2 > div.navMenu.lbox--v-9.space--r-2.space--fromW2-r-3.space--fromW3-ml-2:nth-child(2)
+tagesschau.de###content > div.wrapper > div.section.sectionA:nth-child(3) > div.con > h2.conHeadline:first-child
+tagesschau.de###content > div.wrapper > div.section.sectionA:nth-child(3) > div.con > div.modCon:last-child > div.modCon > div.containerButton:first-child
+tagesschau.de###content > div.wrapper > div.section.sectionA:nth-child(28)
+tagesschau.de###content > div.wrapper > div.section.sectionA:nth-child(27)
+@@||www.paypal.com^$important,document,~extension
+@@||www.xoom.com^$important,document,~extension
+youtube.com###buttons > ytd-notification-topbar-button-renderer.style-scope.ytd-masthead.notification-button-style-type-default:nth-child(3)
+ebay-kleinanzeigen.de###video
+youtube.com###buttons > ytd-notification-topbar-button-renderer.style-scope.ytd-masthead.notification-button-style-type-default:nth-child(3)
+@@||www.bild.de^$important,document,~extension
+youtube.com###notification-count
+karar.com##div.shell:first-child > header.main-header.box-shadow:first-child > div.top:first-child
+karar.com##div.shell:first-child > header.main-header.box-shadow:first-child > div.center:nth-child(2) > div.container.flex.middle.between.height-full > div.rightbar.flex.middle:last-child
+karar.com##div.shell:first-child > div.last-news:nth-child(2)
+karar.com###topBtn
+karar.com##div.shell:first-child > div.container.relative.margin-top-lg:nth-child(3) > div.main-content.margin-top-lg:last-child > div.video-wrapper.margin-top-lg:nth-child(7)
+sueddeutsche.de##div.sz-wrapper:nth-child(8) > div.teaserlist:first-child > div.sz-teaserlist-element > div.sz-panorama-banderole:last-child > a.sz-panorama-banderole__link > img:first-child
+sueddeutsche.de###wetter1
+sueddeutsche.de###szde > div.topnavigation.fixed-width--center:nth-child(2)
+sueddeutsche.de###szde > div.header-products:nth-child(4)
+sueddeutsche.de##div.sz-wrapper:nth-child(8) > div.teaserlist:first-child
+sueddeutsche.de###sz-newspilot
+sueddeutsche.de##div.sz-wrapper:nth-child(8) > main.sz-content:last-child > section.sz-content__top-teasers:first-child > div.sz-teaserlist-wrapper.sz-teaserlist-wrapper--homepage:first-child > div.teaserlist > div.sz-teaserlist-element:nth-child(8) > section.interactiveeditorial
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.row.header.hidden-xs:nth-child(2)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(59)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(57)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(56)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(54)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(52)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(51)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(50)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(48)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(43)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(41)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(39)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(40)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(37)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(36)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(35)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(34)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(32)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(26)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(27)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(25)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(23)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(21)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(20)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(19)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(18)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(17)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(16)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(30) > div.col-sm-8:first-child > div.row > div.col-sm-6.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(15)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(13)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(12)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(10) > div.col-sm-4:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(10) > div.col-sm-8:first-child > div.row > div.col-sm-6.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(7) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(4)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(6) > div.col-xs-12 > div.hidden-xs:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-4:last-child > div.box:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-4:last-child > div.box:nth-child(5)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(31)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(30)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(28)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(16)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(15)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(14) > div.col-xs-12 > div.box.table-quotes.realtime-list:nth-child(2) > div.medium-font.light-grey:last-child
+finanzen.net###realtime_chart_list > div.table-responsive.relative:first-child > table.table.table-vertical-center.hsbcMobileTable > tbody:last-child > tr:last-child
+finanzen.net###realtime_chart_list > div.table-responsive.relative:first-child > table.table.table-vertical-center.hsbcMobileTable > tbody:last-child > tr:nth-child(32)
+finanzen.net###realtime_chart_list > div.table-responsive.relative:first-child > table.table.table-vertical-center.hsbcMobileTable > tbody:last-child > tr:nth-child(33)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(14) > div.col-xs-12 > div.box.table-quotes.realtime-list:nth-child(2) > div.row:nth-child(5)
+finanzen.net###realtime_chart_list > div.table-responsive.relative:first-child > table.table.table-vertical-center.hsbcMobileTable > thead:nth-child(2) > tr > th.text-left:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights:first-child > div.col-sm-12.col-xs-12 > div.row:nth-child(8) > div.col-xs-12 > div.hidden-xs:first-child > div.infobox-options:first-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.lazy:nth-child(28)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights:first-child > div.col-sm-12.col-xs-12 > div.row.snapshot-headline:first-child > div.col-sm-7:last-child > div.row.hidden-xs.relative:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(12) > div.col-xs-12:last-child > div.hidden-xs:first-child > div.infobox-options:first-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(12) > div.col-xs-12:first-child > div.row.snapshot-headline:first-child > div.col-sm-7:last-child > div.row.hidden-xs.relative:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(27)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(25)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(26)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(22) > div.col-sm-4.col-xs-12:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(60)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(58)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(47) > div.col-xs-12 > div.hidden-xs:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div.spacer-40:nth-child(15)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(53)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(55)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div.spacer-60.hidden-xs:nth-child(17)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div.spacer-20:nth-child(18)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(33)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(24)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(11) > div.col-xs-12 > div.hidden-xs:last-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(29)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(14)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(38)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(11) > div.col-xs-12 > div.row:first-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.spacer-20:nth-child(8)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(9) > div.col-xs-12 > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-8:first-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(3) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:last-child
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(3) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(3)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row:nth-child(3) > div.col-xs-12 > div.middle-nav-container > ul.middle-nav > li:nth-child(2) > a
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-8:first-child > div.box.highlightbox.dynamic-content.no-box-border:nth-child(16)
+finanzen.net##div.wrapper:nth-child(6) > div.container.mobile:nth-child(6) > div.shadow:nth-child(3) > div:nth-child(13) > div.row.equalheights > div.col-sm-12.col-xs-12 > div.row.home:first-child > div.col-sm-8:first-child > div.box.highlightbox.dynamic-content.no-box-border:nth-child(18)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(12) > div.col-xs-12:last-child > div.hidden-xs:first-child > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-20:nth-child(17)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(12) > div.col-xs-12:first-child > div.row.snapshot-headline:first-child > div.col-sm-5:first-child > h1.font-resize:first-child > span.instrument-id > span.icon-copy:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(12) > div.col-xs-12:first-child > div.row.snapshot-headline:first-child > div.col-sm-5:first-child > h1.font-resize:first-child > span.instrument-id > span.icon-copy:first-child
+idealo.de###teaser-section
+idealo.de###recommended-products-section
+idealo.de###popular-products-section
+idealo.de###recent-products-section
+idealo.de###bargains-section
+idealo.de###about-section
+idealo.de##footer.pageFooter-wrapper:nth-child(5) > nav.pageFooter-middle:nth-child(2)
+idealo.de##footer.pageFooter-wrapper:nth-child(5) > div.pageFooter-bottom:last-child
+idealo.de##footer.pageFooter-wrapper:nth-child(5) > div.pageFooter-top:first-child
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--brand:nth-child(4) > h1.i-header-claim-primary:first-child
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--brand:nth-child(4) > ul.i-header-verticals:last-child > li.i-header-vertical:nth-child(2)
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--brand:nth-child(4)
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--standard:nth-child(5) > div.i-header-wrapper > div.i-header-slot.i-header-slot--navigation:first-child
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--standard:nth-child(5) > div.i-header-wrapper > div.i-header-slot.i-header-slot--services:last-child
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--simple:nth-child(3) > a.i-header-cobi.i-header-cobi--initialised:last-child
+idealo.de###flight-routes-section
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--simple:nth-child(3) > a.i-header-cobi:last-child
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--standard:nth-child(4) > div.i-header-wrapper > div.i-header-slot.i-header-slot--services:last-child
+idealo.de##main.pageContent-wrapper:nth-child(2) > div.row:nth-child(3) > div.resultlist:last-child > section.related-queries:nth-child(4)
+idealo.de##main.pageContent-wrapper:nth-child(2) > div.row.headline-row:nth-child(2) > div.sortBox:nth-child(4) > div.sortBox-wrapper:last-child > div.productLayoutSwitch:last-child
+idealo.de##div.page-wrapper:first-child > div.main-section > main.pageContent-wrapper:nth-child(3) > div.oop-mainWrapper.row:nth-child(5) > div.oopMarginal.small-12.xxlarge-3.columns:first-child
+idealo.de##div.page-wrapper:first-child > div.main-section > footer.pageFooter-wrapper:last-child > div.pageFooter-bottom:last-child
+idealo.de##div.page-wrapper:first-child > div.main-section > footer.pageFooter-wrapper:last-child > div.pageFooter-top:first-child
+idealo.de###Meinungen
+idealo.de##div.page-wrapper:first-child > div.main-section > main.pageContent-wrapper:nth-child(3) > div.productFurtherTags.row:last-child
+idealo.de###offerList > div.row:last-child > div.small-12.column.reportError-link.text-right
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--standard:nth-child(4) > div.i-header-wrapper > div.i-header-slot.i-header-slot--navigation:first-child
+idealo.de##main.pageContent-wrapper:nth-child(2) > div.row:nth-child(3) > div.resultlist:last-child > div.offerList.wishlist.offerList--tile-view--default-larger.offerList--tileview:nth-child(2) > div.offerList-item:first-child > a.offerList-itemWrapper > div.offerList-item-wishlistSwitcher.offerList-item-icon-showRight.initially-visible:first-child
+idealo.de##div.page-wrapper:first-child > div.main-section > main.pageContent-wrapper:nth-child(3) > div.oopStage:nth-child(4) > div.row > div.oopStage-details.small-12.large-6.columns.left:nth-child(2) > div.favouritesWrapper.show-for-large:first-child
+idealo.de##div.page-wrapper:first-child > div.main-section > main.pageContent-wrapper:nth-child(3) > div.oop-mainWrapper.row:nth-child(6) > div.oopMarginal.small-12.xxlarge-3.columns:first-child
+idealo.de###Expertenmeinung
+idealo.de###Testberichte
+ebay-kleinanzeigen.de###site-signin > div.login-overlay:first-child
+idealo.de###flight-routes-section
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--simple:nth-child(3) > a.i-header-cobi:last-child
+winfuture.mobi###main > div.teaser.mtop10:first-child
+tagesschau.de###header > div.wrapper > div.section.sectionA > div.searchBox:nth-child(3)
+tagesschau.de###content > div.wrapper > div.section.sectionC.kachel:nth-child(24)
+tagesschau.de###content > div.wrapper > div.section.sectionC.kachel:nth-child(22)
+tagesschau.de###content > div.wrapper > div.section.sectionA:nth-child(26)
+check24.de###c24-page-container-footer
+check24.de###c24-container-18
+check24.de###c24-container-17
+check24.de###c24-container-16
+check24.de###c24-container-15
+check24.de###c24-container-14
+check24.de###c24-container-13
+check24.de###c24-container-12
+check24.de###c24-container-11
+check24.de###c24-container-10
+check24.de###c24-container-9
+check24.de###c24-container-7
+check24.de###c24-container-8
+check24.de###c24-container-6
+check24.de###c24-container-4
+check24.de###c24-header-top > div.c24-header-content.clearfix > div.c24-contact.c24-header-hover.clearfix:nth-child(7)
+check24.de###c24-slider-bx > div:first-child > div.c24-home-slide
+check24.de###c24-slider > div.bx-wrapper:first-child > div.bx-controls.bx-has-pager.bx-has-controls-direction:last-child > div.bx-controls-direction:last-child
+check24.de###c24-slider-bx > div:first-child
+check24.de###c24-content > div:first-child > div:nth-child(16) > div.tko-teaser-sso-wrapper:first-child > div.tko-teaser-sso-container.tko-page-wrapper > div.tko-compare-tab.tko-tab-active:first-child > div > div.tko-remove-compares-wrapper:last-child
+check24.de###c24-customer-trigger
+check24.de###c24-search-form > fieldset
+check24.de###c24-content > div:first-child > div.tko-teaser-container:nth-child(2)
+check24.de###c24-content > div.tko-grey-fullsize-background-wrapper:first-child > div.tko-resultlist-teaser:first-child > div.tko-page-wrapper.tko-resultlist-header > div.tko-resultlist-header-right:last-child
+check24.de###c24-content > div.tko-grey-fullsize-background-wrapper:first-child > div.tko-resultlist-wrapper:last-child > div.tko-result-container:nth-child(2) > div.tko-footer-price-notice:nth-child(11)
+check24.de###c24-content > div.tko-to-top.show:last-child
+handytarife.check24.de###c24-content > c24-page-result-list-default:nth-child(2) > c24-page-result-list-list-default:nth-child(4) > c24-content-module.result-list-area > div.result-list-container:last-child > c24-result-list-default.result-list:last-child > div.list.ng-star-inserted:first-child > c24-result-list-consultant-gallery.horizontal.ng-star-inserted:nth-child(4)
+handytarife.check24.de###c24-content > c24-page-result-list-default:nth-child(2) > c24-page-result-list-comparison:last-child > c24-stackable-footer
+check24.de###c24-content > div.tko-grey-fullsize-background-wrapper:first-child > div.tko-resultlist-wrapper:last-child > div.tko-result-container:nth-child(2) > div.tko-footer-date:nth-child(10)
+ub.tum.de###block-block-54
+ub.tum.de##header:nth-child(3) > div.ym-wrapper > div.ym-wbox.page > div.region.region-header:first-child
+ub.tum.de###block-block-61
+ub.tum.de###block-system-main > div.content > div.panel-flexible.panels-flexible-53.clearfix > div.panel-flexible-inside.panels-flexible-53-inside > div.panels-flexible-region.panels-flexible-region-53-oben.panels-flexible-region-first.panels-flexible-region-last > div.inside.panels-flexible-region-inside.panels-flexible-region-53-oben-inside.panels-flexible-region-inside-first.panels-flexible-region-inside-last > div.panel-pane.pane-views.pane-aktuelles:nth-child(5)
+ub.tum.de##footer:nth-child(6) > div.ym-wrapper
+ub.tum.de###block-system-main > div.content > div.panel-flexible.panels-flexible-53.clearfix > div.panel-flexible-inside.panels-flexible-53-inside > div.panels-flexible-region.panels-flexible-region-53-oben.panels-flexible-region-first.panels-flexible-region-last > div.inside.panels-flexible-region-inside.panels-flexible-region-53-oben-inside.panels-flexible-region-inside-first.panels-flexible-region-inside-last > div.panel-pane.pane-views.pane-tb:last-child
+ub.tum.de###block-block-45
+ub.tum.de###block-system-main > div.content > div.panel-flexible.panels-flexible-53.clearfix > div.panel-flexible-inside.panels-flexible-53-inside > div.panels-flexible-region.panels-flexible-region-53-oben.panels-flexible-region-first.panels-flexible-region-last > div.inside.panels-flexible-region-inside.panels-flexible-region-53-oben-inside.panels-flexible-region-inside-first.panels-flexible-region-inside-last > div.panel-pane.pane-views.pane-slideshow:first-child
+opac.ub.tum.de###right > div.libraryh3lp:nth-child(5)
+opac.ub.tum.de###footer
+ub.tum.de###block-menu-menu-hauptmenue-de > div.content > ul.ym-menu > li.collapsed:nth-child(2)
+ub.tum.de###block-block-51 > div.content > a:nth-child(4)
+ub.tum.de###block-block-51 > div.content > a:nth-child(3)
+ub.tum.de###block-menu-menu-hauptmenue-de > div.content > ul.ym-menu > li.last.collapsed:last-child
+ub.tum.de###block-menu-menu-hauptmenue-de > div.content > ul.ym-menu > li.collapsed:nth-child(6)
+ub.tum.de###block-menu-menu-hauptmenue-de > div.content > ul.ym-menu > li.collapsed:nth-child(5)
+ub.tum.de###block-menu-menu-hauptmenue-de > div.content > ul.ym-menu > li.collapsed:nth-child(4)
+ub.tum.de###block-block-51 > div.content > a:nth-child(5)
+ub.tum.de###block-block-51 > div.content > a:nth-child(2)
+10minutemail.com##header:first-child > div.content:first-child > div.language:last-child
+10minutemail.com###main_content > div.content > div.explanation:last-child
+10minutemail.com##div:nth-child(6) > footer:first-child
+10minutemail.com##header:first-child > div.content:first-child > h2:nth-child(2)
+9to5mac.com###js-site-header > div.site-header-inner:first-child > div.header-right-area:last-child
+9to5mac.com###primary-menu
+ebay-kleinanzeigen.de###login-data > p.formerror-text:nth-child(3)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-60.hidden-xs:nth-child(33)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-40:nth-child(31)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.spacer-20:nth-child(34)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(24) > div.col-sm-8.col-xs-12:nth-child(2) > div.spacer-20:last-child
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(22) > div.col-sm-8.col-xs-12:nth-child(2) > div.spacer-20:nth-child(2)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(22) > div.col-sm-8.col-xs-12:nth-child(2) > div.spacer-20:nth-child(4)
+finanzen.net##div.wrapper:nth-child(3) > div.container.mobile:nth-child(6) > div.shadow:last-child > div.row:nth-child(18) > div.col-sm-4:last-child > div.spacer-20:nth-child(2)
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--simple:nth-child(2) > a.i-header-cobi:last-child
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--brand:nth-child(3)
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--standard:nth-child(3) > div.i-header-wrapper > div.i-header-slot.i-header-slot--services:last-child
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--standard:nth-child(3) > div.i-header-wrapper > div.i-header-slot.i-header-slot--navigation:first-child
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--standard:nth-child(4) > div.i-header-wrapper > div.i-header-slot.i-header-slot--search:nth-child(2) > div.i-search.i-search--initialised > form.i-search-form:first-child > button.i-search-button.i-search-button--submit:last-child
+idealo.de##header.i-header.i-header--initialised:first-child > div.i-header-row.i-header-row--standard:nth-child(3) > div.i-header-wrapper > div.i-header-slot.i-header-slot--search:nth-child(2) > div.i-search.i-search--initialised > form.i-search-form:first-child > button.i-search-button.i-search-button--submit:last-child
+de.aliexpress.com###home-firstscreen > div.container:last-child > div.home-firstscreen-main > div.channel-entrance:nth-child(2)
+de.aliexpress.com###j-multi-sidebar-outer > div.multi-sidebar-tab:first-child
+de.aliexpress.com###user-benefits
+de.aliexpress.com###header > div.header-wrap.container > div.hm-middle:last-child > div.hot-words:last-child
+de.aliexpress.com###header > div.header-wrap.container > div.hm-left.hm-left-store:first-child > div.site-logo:last-child > a > span.logo-slogan:last-child
+de.aliexpress.com###nav-global > div.ng-item-wrap.ng-seller-wrap:first-child
+de.aliexpress.com###nav-global > div.ng-item-wrap.ng-item.ng-setting-proxy:nth-child(2)
+de.aliexpress.com###nav-global > div.ng-item-wrap.ng-help-wrap:nth-child(3)
+de.aliexpress.com##div.index-page:nth-child(9) > div.site-footer:nth-child(21)
+de.aliexpress.com###redesign-just-for-you
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(19) > div.user-helper-footer:nth-child(16)
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(19) > div.site-server-box:nth-child(14)
+de.aliexpress.com###redesign-featured-category
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(19) > div.container.featuredbrand-store:nth-child(8)
+de.aliexpress.com##div.index-page:nth-child(9) > div.footer-copywrite:nth-child(22)
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(19) > div.user-helper-footer:nth-child(15)
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(19) > div.site-server-box:nth-child(13)
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(19) > div.container.featuredbrand-store:nth-child(7)
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(19) > div.container.topselection-newforyou:nth-child(6)
+de.aliexpress.com###redesign-flash-deals
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(18) > div.container.featuredbrand-store:nth-child(7)
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(18) > div.site-server-box:nth-child(13)
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(18) > div.user-helper-footer:nth-child(15)
+de.aliexpress.com##div.index-page:nth-child(9) > div.site-footer:nth-child(20)
+de.aliexpress.com###redesign-crowd-entrance
+de.aliexpress.com###key-visual-main > div.ui-banner-slider-wrap
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(18) > div.container.topselection-newforyou:nth-child(6)
+de.aliexpress.com##div.index-page:nth-child(9) > div.footer-copywrite:nth-child(21)
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(18) > div.container.just-for-title:nth-child(10)
+de.aliexpress.com##div.index-page:nth-child(9) > div.page-container:nth-child(18) > div.container.featured-title:nth-child(8)
+de.aliexpress.com###root > div.glosearch-wrap > div.page-content > div.main-content:last-child > div:first-child > div.next-affix.left-affix > div.left-menu-container > div.ams-region:last-child
+de.aliexpress.com###root > div.glosearch-wrap > div.page-content > div.main-content:last-child > div:first-child > div.next-affix.left-affix > div.left-menu-container > div.left-refine-container:first-child > div.refine-block.brand:last-child
+de.aliexpress.com###p4p
+de.aliexpress.com##div.site-footer:nth-child(11) > div.container > div.sf-aliexpressInfo.clearfix:first-child
+de.aliexpress.com##div.site-footer:nth-child(11) > div.container
+de.aliexpress.com###root > div.glosearch-wrap > div.page-content > div.main-content:last-child > div.right-menu:last-child > div.product-container > div.search-feedback-wrap:last-child
+de.aliexpress.com##div.footer-copywrite:nth-child(12) > div.container
+de.aliexpress.com##div.site-footer:nth-child(11)
+de.aliexpress.com##div.footer-copywrite:nth-child(12)
+de.aliexpress.com###root > div.glosearch-wrap > div.page-content > div.main-content:last-child > div.right-menu:last-child > div.product-container > div.list-pagination:nth-child(3) > div.product-pagination-wrap > div.jump-aera:last-child
+de.aliexpress.com##div.search-header-wrap:nth-child(7) > div.related-search-outer:last-child
+matlabacademy.mathworks.com###helpMenu
+idealo.de##footer.pageFooter-wrapper:nth-child(6) > div.pageFooter-bottom:last-child
+idealo.de##footer.pageFooter-wrapper:nth-child(6) > nav.pageFooter-middle:nth-child(2)
+idealo.de##footer.pageFooter-wrapper:nth-child(6) > div.pageFooter-top:first-child
+idealo.de###trending-categories > div.row
+idealo.de###recommended-categories-section-known-user
+@@||www.ebay.de^$important,document,~extension
